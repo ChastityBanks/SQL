@@ -31,8 +31,26 @@ INSERT INTO clothes VALUES (12,"Tank top",12);
 INSERT INTO clothes VALUES (13,"Cami shirt",13);
 INSERT INTO clothes VALUES (14,"Blouse",14);
 INSERT INTO clothes VALUES (15,"Peace shirt",15);
+SELECT * FROM clothes;
 DATABASE SCHEMA
 clothes15 rows
 id (PK)INTEGER
 nameTEXT
 quantityINTEGER
+QUERY RESULTS
+id	name	quantity
+1	Tube top	1
+2	Maxi dress	2
+3	Dress pants	3
+4	T shirt	4
+5	Jump suit	5
+6	Stripe shirt	6
+7	Jean jacket	7
+8	Jean dress	8
+9	Shorts	9
+10	Tye dye dress	10
+11	Coat	11
+12	Tank top	12
+13	Cami shirt	13
+14	Blouse	14
+15	Peace shirt	15
